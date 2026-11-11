@@ -1,0 +1,29 @@
+├── 🎯 1. CONCEPTO Y DATOS GENERALES
+ │    ├── Conflicto bélico sudamericano del siglo XX (1932 - 1935)
+ │    ├── Zona en disputa: El Chaco Boreal (aprox. 600,000 km²)
+ │    └── Países enfrentados: Bolivia 🇧🇴 vs. Paraguay 🇵🇾
+ │
+ ├── ⚙️ 2. CAUSAS PRINCIPALES
+ │    ├── 📍 Disputa territorial: Fronteras imprecisas desde la época colonial
+ │    ├── 🛢️ Interés económico: Falsos rumores o expectativas sobre yacimientos de petróleo
+ │    ├── 🌊 Necesidad geopolítica: 
+ │    │    ├── Bolivia buscaba una salida al Océano Atlántico a través del río Paraguay
+ │    │    └── Paraguay defendía su soberanía territorial histórica en el Chaco
+ │    └── ⚡ Incidentes fronterizos: Choques previos por fortines y la Laguna Pitiantuta
+ │
+ ├── ⚔️ 3. DESARROLLO Y FASES MILITARES
+ │    ├── 📌 Detonante: Ocupación boliviana del fortín Carlos Antonio López (Pitiantuta) y respuesta paraguaya (1932)
+ │    ├── 🛡️ Batalla de Boquerón (Septiembre 1932): Primer gran enfrentamiento y victoria defensiva clave para Paraguay
+ │    ├── 🏜️ Condiciones extremas: Guerra librada en un desierto hostil, escasez absoluta de agua y clima inclemente
+ │    └── 🔄 Cambios de rumbo: Ofensivas iniciales de Bolivia contrarrestadas por la estrategia móvil y el avance del ejército paraguayo
+ │
+ ├── 🕊️ 4. FIN DEL CONFLICTO Y TRATADO DE PAZ
+ │    ├── 🛑 Armisticio: Firma del protocolo de paz el 12 de junio de 1935 (agotamiento económico y humano)
+ │    └── 📜 Tratado de Paz, Amistad y Límites (1938): Delimitación definitiva de fronteras
+ │
+ └── 📊 5. CONSECUENCIAS Y RESULTADOS
+      ├── 📉 Pérdidas humanas y económicas devastadoras para ambas naciones
+      ├── 🗺️ Reparto territorial: 
+      │    ├── Paraguay obtuvo cerca del 75% del Chaco Boreal en disputa
+      │    └── Bolivia retuvo una cuarta parte y una franja estratégica ribereña (Triángulo Dionisio Foianini)
+      └── 🔄 Impacto político: Profundas crisis institucionales y cambios sociales en el interior de ambos países
